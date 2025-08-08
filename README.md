@@ -42,6 +42,9 @@ git push origin feature/login
 git tag v1.0.0
 git push origin v1.0.0
 ```
+## 📷 Screenshots
+![Branching && Merging Pull Requests](Screenshot(301).png)
+
 
 ## 📄 Documentation
 All Git commands and workflow steps are documented in [`docs/workflow.md`](docs/workflow.md).
