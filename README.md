@@ -43,7 +43,7 @@ git tag v1.0.0
 git push origin v1.0.0
 ```
 ## 📷 Screenshots
-![Branching && Merging Pull Requests](Screenshot (301).png)
+![Branching && Merging Pull Requests](screenshot.png)
 
 
 ## 📄 Documentation
