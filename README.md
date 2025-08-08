@@ -15,8 +15,8 @@ This project demonstrates proper **Git version control** practices using branchi
 ## 🚀 Getting Started
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/devops-git-project.git
-cd devops-git-project
+git clone https://github.com/Akshay2642005/04-gitops-project.git
+cd 04-gitops-project
 ```
 
 ### 2. Create Branches
@@ -45,11 +45,3 @@ git push origin v1.0.0
 
 ## 📄 Documentation
 All Git commands and workflow steps are documented in [`docs/workflow.md`](docs/workflow.md).
-
-## 📷 Screenshots
-![Branch Creation](docs/screenshots/create-branch.png)
-![Pull Request](docs/screenshots/pull-request.png)
-
----
-**Author:** Your Name  
-**Date:** YYYY-MM-DD
